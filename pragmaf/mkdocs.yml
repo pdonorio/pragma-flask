@@ -1,0 +1,5 @@
+site_name: Pragma flasking
+pages:
+- Introduction: index.md
+- About: about.md
+theme: readthedocs
