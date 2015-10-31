@@ -1,0 +1,39 @@
+{
+    "docs": [
+        {
+            "location": "/",
+            "text": "Pragmatic Flask for developers\n\n\n\n\nPragmatic\n web development tutorial for Python 3 Flask micro-framework.\n\n\n\n\nWhy\n\n\nIf you want to do web development in Python, chances are you start with \nDjango\n.\n\nFlask\n is the most beloved alternative:\n\n\n\n\nminimal\n\n\na simple yet powerful and stable core\n\n\nmany many many plugins\n\n\n\n\nWhat is the main problem you get caught some weeks after you fell in love with Flask?\nThat plugins you need to use for your project are at least \nnine or ten\n, \nand there are \nno instructions\n about the most important to choose and how to mix them right.\n\n\nWhat happens next is that:\n\n\n\n\nYou have to find them (google, stackoverflow, comparing, opinions, suggestions, etc.)\n\n\nYou have to learn them (go through each single documentation)\n\n\nYou have to make all of them work together\n\n\n\n\nMain goals\n\n\n\n\nProvide a set of instructions to explain only the basic concepts of Flask core\n\n\nList the plugins needed\n\n\nExplain plugins in the order they will be needed\n\n\nProvide a final boilerplate\n\n\n\n\nNote: Flask may be used in many ways:\n\n\n\n\nas a standalone server coupled with relational DB\n\n\nas REST API provider\n\n\nas an interface plus Javascript (e.g. Angularjs) and REST API backend\n\n\n...many more\n\n\n\n\nThe idea is to provide the boilerplate for at least the first three solutions.",
+            "title": "Introduction"
+        },
+        {
+            "location": "/#pragmatic-flask-for-developers",
+            "text": "Pragmatic  web development tutorial for Python 3 Flask micro-framework.",
+            "title": "Pragmatic Flask for developers"
+        },
+        {
+            "location": "/#why",
+            "text": "If you want to do web development in Python, chances are you start with  Django . Flask  is the most beloved alternative:   minimal  a simple yet powerful and stable core  many many many plugins   What is the main problem you get caught some weeks after you fell in love with Flask?\nThat plugins you need to use for your project are at least  nine or ten , \nand there are  no instructions  about the most important to choose and how to mix them right.  What happens next is that:   You have to find them (google, stackoverflow, comparing, opinions, suggestions, etc.)  You have to learn them (go through each single documentation)  You have to make all of them work together",
+            "title": "Why"
+        },
+        {
+            "location": "/#main-goals",
+            "text": "Provide a set of instructions to explain only the basic concepts of Flask core  List the plugins needed  Explain plugins in the order they will be needed  Provide a final boilerplate   Note: Flask may be used in many ways:   as a standalone server coupled with relational DB  as REST API provider  as an interface plus Javascript (e.g. Angularjs) and REST API backend  ...many more   The idea is to provide the boilerplate for at least the first three solutions.",
+            "title": "Main goals"
+        },
+        {
+            "location": "/about/",
+            "text": "About this project\n\n\nThis documentation was easily written with \nmkdocs\n as written in the footer.\n\n\nIf you like (and probably already use) \nMarkdown\n for other projects,\nyou may want to consider mkdocs instead of sphinx. \nIt's easy and powerful and works with readthedocs too.\n\n\nWho's behind\n\n\nThis pages were written by:\n\n\n\n\nPaolo D'Onorio De Meo\n\n\n...\n\n\n\n\nCopyright 2015",
+            "title": "About"
+        },
+        {
+            "location": "/about/#about-this-project",
+            "text": "This documentation was easily written with  mkdocs  as written in the footer.  If you like (and probably already use)  Markdown  for other projects,\nyou may want to consider mkdocs instead of sphinx. \nIt's easy and powerful and works with readthedocs too.",
+            "title": "About this project"
+        },
+        {
+            "location": "/about/#whos-behind",
+            "text": "This pages were written by:   Paolo D'Onorio De Meo  ...   Copyright 2015",
+            "title": "Who's behind"
+        }
+    ]
+}
