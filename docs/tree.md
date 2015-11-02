@@ -1,6 +1,8 @@
 
 # Tree of a typical Flask project
 
+```txt
+
 ├── app
 │   ├── __init__.py
 │   ├── basemodel.py
@@ -28,3 +30,4 @@
 ├── run.py
 └── README.md
 
+```
