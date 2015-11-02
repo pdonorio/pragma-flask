@@ -2,6 +2,8 @@ site_name: Pragma flasking
 pages:
 - Introduction: index.md
 - Flask: flask.md
+- Environment: env.md
+- Tree: tree.md
 - Concepts: concepts.md
 - About: about.md
 theme: journal
